@@ -1,4 +1,4 @@
-# Laravel playbook
+# Laravel Playbook
 
 ## Setup
 

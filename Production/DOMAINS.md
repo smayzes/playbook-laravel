@@ -9,8 +9,8 @@
 
 ### Registrars
 
-* [name.com](https://shawn.at/namedotcom)
-* [gandi.net](https://gandi.net)
+* [Name.com](https://shawn.at/namedotcom)
+* [Gandi.net](https://gandi.net)
 
 ## DNS
 

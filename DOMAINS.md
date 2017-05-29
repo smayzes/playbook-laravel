@@ -2,7 +2,12 @@
 
 ## Domains
 
-### Sources
+### Searching
+
+* [Domain Tools](https://domaintools.com)
+* [Domainr](https://domainr.com/)
+
+### Registrars
 
 * [name.com](https://shawn.at/namedotcom)
 * [gandi.net](https://gandi.net)

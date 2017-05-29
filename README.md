@@ -1,9 +1,4 @@
-# Laravel Playbook
+# Playbooks
 
-## Setup
-
-## Design Patterns
-
-## Deployment
-
-## Monitoring
+* (Domains & DNS)[DOMAINS.md]
+* (Laravel)[LARAVEL.md]

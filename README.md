@@ -1,2 +1,9 @@
-# playbook-laravel
-Laravel playbook
+# Laravel playbook
+
+## Setup
+
+## Design Patterns
+
+## Deployment
+
+## Monitoring

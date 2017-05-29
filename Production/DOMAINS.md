@@ -21,3 +21,4 @@
 ## SSL
 
 * [Let's Encrypt](https://letsencrypt.org/)
+* [DNSimple](https://dnsimple.com/ssl-certificates)

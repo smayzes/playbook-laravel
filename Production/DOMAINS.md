@@ -6,6 +6,7 @@
 
 * [Domain Tools](https://domaintools.com)
 * [Domainr](https://domainr.com/)
+* [Gandi v4](https://v4.gandi.net/domain/suggest)
 
 ### Registrars
 
